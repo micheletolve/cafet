@@ -1,0 +1,11 @@
+<!--#include file="HomeController.asp" -->
+<!--#include file="UserController.asp" -->
+<!--#include file="RoleController.asp" -->
+<!--#include file="LogAccessiController.asp" -->
+<!--#include file="LogNotificheController.asp" -->
+<!--#include file="SmtpController.asp" -->
+<!--#include file="NotificheController.asp" -->
+<!--#include file="MessaggiController.asp" -->
+<!--#include file="MenuController.asp" -->
+<!--#include file="MenuChildController.asp" -->
+<!--#include file="RbacController.asp" -->
